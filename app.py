@@ -151,7 +151,7 @@ def create_confusion_matrix_plot(y_true, y_pred, model_name):
 
 def main():
     # Main header
-    st.markdown('<h1 class="main-header">🛡️ AI Cyber Intrusion Detection System</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">🛡️ AI Fraud Detection (Network)</h1>', unsafe_allow_html=True)
     
     # Sidebar navigation
     st.sidebar.title("Navigation")
